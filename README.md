@@ -12,3 +12,5 @@
 [2. OO em Python 2](https://github.com/myplayareas/pythonbasico/blob/main/Review_Python_POO_a2.ipynb)
 
 [Para abrir direto no google colabs](https://colab.research.google.com/github/armandossrecife/treinamentos/blob/main/Review_Python_POO_a2.ipynb)
+
+*[O que é o google colab?](https://colab.research.google.com/)
